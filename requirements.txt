@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+
+Pillow
+moviepy>=2.0.0
+paramiko
+python-multipart
